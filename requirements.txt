@@ -1,0 +1,4 @@
+cowsay
+requests
+pillow
+pyTelegramBotAPI
