@@ -1,4 +1,4 @@
-# Memcreator Telegram Bot
+# [Memcreator Telegram Bot](https://t.me/pizdza_memcreator_bot)
 
 Добро пожаловать в Telegram-бот для создания мемов! Этот бот позволяет вам легко и быстро создавать кастомные мемы и демотиваторы, добавляя текст к изображениям. Хотите создать смешной мем или мотивационный (или демотивационный) постер? Этот бот вам поможет!
 
@@ -6,6 +6,7 @@
 
 - **memcreator for windows**: Прототип десктоп версии приложения [github](https://github.com/KiraArensky/memcreator)
 - **memcreator for android**: Начало разработки андроид версии [github](https://github.com/GreyStekl0/MemCreator)
+- **UI/UX for mobile app**: Разработка дизайна мобильного приложения [figma](https://www.figma.com/proto/bDU1doh4BMT9g3FlkKKjsl/memcreator?node-id=11-167&t=3PuRHVRqgZ4UkCfl-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=11%3A167)
 
 ## Особенности
 
